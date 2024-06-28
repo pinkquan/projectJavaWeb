@@ -1,0 +1,35 @@
+﻿
+/*Các xử lý định dạng cho body*/
+body{
+	color: #444;
+	font-family: arial;
+	font-size: 16px;
+}
+
+.bg-full{
+	background: url('../img/tasty.jpg') bottom center;
+	
+}
+
+.view{
+	width: 100%;
+	height: auto;
+	/*
+	border-width: 20px;
+	border-style: inset;
+	border-color: blue;
+	
+	gop 3 cai tren vao
+	*/
+	/*border: 20px inset blue;*/
+	border: 2px inset orange;
+	
+	box-shadow: 20px 15px 20px rgba(66, 60, 60, 0.3);
+	
+	/* tt tp dp dt*/
+	border-radius: 15px 15px 15px 15px;
+}
+
+.bg-full {
+	min-height: 100vh;
+  }

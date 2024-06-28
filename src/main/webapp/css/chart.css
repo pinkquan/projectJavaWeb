@@ -1,0 +1,6 @@
+﻿#lineChart {
+	width: 100%; /* Chiều rộng 100% của phần tử chứa */
+	height: 500px; /* Chiều cao cố định */
+	max-width: 800px; /* Chiều rộng tối đa */
+	margin: 0 auto; /* Căn giữa */
+}
